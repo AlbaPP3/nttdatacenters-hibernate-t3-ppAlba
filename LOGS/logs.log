@@ -1,0 +1,17 @@
+[2022-11-25 14:56:24,870] - [DEBUG] - [org.jboss.logging] - [main]: Logging Provider: org.jboss.logging.Slf4jLoggerProvider
+[2022-11-25 14:56:26,474] - [INFO] - [Maven.nttdatacenters_hibernate_t2_ppAlba.HibernateMain] - [main]: Configuración de la sesión generada correctamente
+[2022-11-25 14:56:26,520] - [INFO] - [Maven.nttdatacenters_hibernate_t2_ppAlba.HibernateMain] - [main]: Sesión abierta correctamente
+[2022-11-25 14:56:26,523] - [INFO] - [Maven.nttdatacenters_hibernate_t2_ppAlba.persistencia.CommonDAOImpl] - [main]: Inicializando Session y tipo de la clase
+[2022-11-25 14:56:26,523] - [INFO] - [Maven.nttdatacenters_hibernate_t2_ppAlba.persistencia.CommonDAOImpl] - [main]: Inicializando Session y tipo de la clase
+[2022-11-25 14:56:26,523] - [DEBUG] - [Maven.nttdatacenters_hibernate_t2_ppAlba.HibernateMain] - [main]: Generación de contrato1
+[2022-11-25 14:56:26,523] - [DEBUG] - [Maven.nttdatacenters_hibernate_t2_ppAlba.HibernateMain] - [main]: Generación de contrato2
+[2022-11-25 14:56:26,523] - [DEBUG] - [Maven.nttdatacenters_hibernate_t2_ppAlba.HibernateMain] - [main]: Generación de cliente1
+[2022-11-25 14:56:26,591] - [DEBUG] - [Maven.nttdatacenters_hibernate_t2_ppAlba.persistencia.CommonDAOImpl] - [main]: Creación de la entidad
+[2022-11-25 14:56:26,591] - [DEBUG] - [Maven.nttdatacenters_hibernate_t2_ppAlba.HibernateMain] - [main]: Inserción de cliente1
+[2022-11-25 14:56:26,592] - [DEBUG] - [Maven.nttdatacenters_hibernate_t2_ppAlba.HibernateMain] - [main]: Generación de cliente2
+[2022-11-25 14:56:26,598] - [DEBUG] - [Maven.nttdatacenters_hibernate_t2_ppAlba.persistencia.CommonDAOImpl] - [main]: Creación de la entidad
+[2022-11-25 14:56:26,598] - [DEBUG] - [Maven.nttdatacenters_hibernate_t2_ppAlba.HibernateMain] - [main]: Inserción de cliente2
+[2022-11-25 14:56:26,598] - [DEBUG] - [Maven.nttdatacenters_hibernate_t2_ppAlba.HibernateMain] - [main]: Inserción de contratos
+[2022-11-25 14:56:26,598] - [DEBUG] - [Maven.nttdatacenters_hibernate_t2_ppAlba.persistencia.CommonDAOImpl] - [main]:  Busqueda de entidad por ID
+[2022-11-25 14:56:26,608] - [DEBUG] - [Maven.nttdatacenters_hibernate_t2_ppAlba.persistencia.ClientDAOImpl] - [main]: Busqueda de cliente por Nombre
+[2022-11-25 14:56:26,690] - [ERROR] - [org.hibernate.engine.jdbc.spi.SqlExceptionHelper] - [main]: Unknown column 'Alejandro' in 'where clause'
